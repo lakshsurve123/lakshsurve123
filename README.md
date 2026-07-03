@@ -184,7 +184,7 @@ Clean and user-friendly UI
 🔗 Links:
 
 Source Code:
-https://github.com/lakshsurve123/Kaushalya
+https://github.com/lakshsurve123/Kaushalya<br>
 Live Demo: https://kaushalya.vercel.app
 <br>
 ---
@@ -249,32 +249,22 @@ https://github.com/lakshsurve123/BEN_10
 
 </div>
 
-<!-- ====================================================== -->
 <!--                 GITHUB ANALYTICS                       -->
-<!-- ====================================================== -->
+
 
 <a name="-github-analytics"></a>
 
 # 📊 GitHub Analytics
 
 <div align="center">
-
 > **Tracking my coding journey, contributions, and continuous growth.**
-
 </div>
-
----
 
 ## 📈 GitHub Statistics
-
 <div align="center">
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lakshsurve123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshsurve123&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
-
 <br>
 
 ---
@@ -282,9 +272,7 @@ https://github.com/lakshsurve123/BEN_10
 ## 🔥 GitHub Streak
 
 <div align="center">
-
 <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshsurve123&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <br>
@@ -335,35 +323,11 @@ https://github.com/lakshsurve123/BEN_10
 
 ---
 
-## 📅 Contribution Calendar
-
-<div align="center">
-
-<img width="100%" src="https://ghchart.rshah.org/0891b2/lakshsurve123"/>
-
-</div>
-
-<br>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/lakshsurve123/lakshsurve123/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-<br>
-
----
-
-## 📊 Top Contributed Repositories
-
-<div align="center">
-
-<img width="80%" src="https://github-contributor-stats.vercel.app/api?username=lakshsurve123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<img width="100%" src="https://raw.githubusercontent.com/lakshsurve123/lakshsurve123/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
