@@ -12,11 +12,9 @@
 
 </div>
 
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3300&pause=1000&color=00E5FF&center=true&vCenter=true&width=950&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Software;Java+%7C+React.js+%7C+Spring+Boot;Open+to+Software+Engineering+Internships"/>
 </p>
-
 
 <div align="center">
 <img src="https://img.shields.io/badge/Open%20to-Internships-22C55E?style=for-the-badge"/>
@@ -49,7 +47,7 @@
 
 <tr>
 
-<td width="100%" align="center" style="padding:30px; border-radius:15px;">
+<td width="65%" align="center" style="padding:30px; border-radius:15px;">
 
 <h2>🎓 About Me</h2>
 
