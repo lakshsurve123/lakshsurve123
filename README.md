@@ -497,71 +497,45 @@ A structured collection of Java programs covering fundamentals to advanced topic
 
 ---
 
-# 🏆 GitHub Trophies
+<!-- ====================================================== -->
+<!--                    ACHIEVEMENTS                         -->
+<!-- ====================================================== -->
+
+<a name="achievements"></a>
+
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lakshsurve123&theme=tokyonight&margin-w=15&margin-h=15&column=4&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lakshsurve123&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
-# 📌 Vital Statistics
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 📊 Coding Profile
-
-- 💻 **Computer Engineering Student**
-- ☕ Java Developer
-- ⚛ React Developer
-- 🔐 Cybersecurity Enthusiast
-- 🌱 Always Learning
-- 🚀 Open Source Learner
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📈 GitHub
-
-- ⭐ Public Repositories
-- 🔥 GitHub Streak
-- 📂 Contributions
-- 📊 Languages Used
-- 🏆 GitHub Trophies
-- 👀 Profile Views
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💻 Coding Activity
+# 📊 Coding Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshsurve123&theme=tokyonight"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshsurve123&theme=tokyonight"/>
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshsurve123&theme=tokyonight"/>
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshsurve123&theme=tokyonight"/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lakshsurve123&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshsurve123&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshsurve123&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -571,56 +545,62 @@ A structured collection of Java programs covering fundamentals to advanced topic
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/409EFF/lakshsurve123" alt="GitHub Contribution Chart"/>
+<img width="95%" src="https://ghchart.rshah.org/0891b2/lakshsurve123"/>
 
 </div>
 
 ---
 
-# 📈 GitHub Overview
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshsurve123&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lakshsurve123&theme=tokyonight&utcOffset=5.5"/>
+<img width="100%" src="https://raw.githubusercontent.com/lakshsurve123/lakshsurve123/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
 <!-- ====================================================== -->
-<!--                    CONNECT WITH ME                     -->
+<!--                  CONNECT WITH ME                       -->
 <!-- ====================================================== -->
 
-<a name="-connect-with-me"></a>
+<a name="connect"></a>
 
 # 🌐 Connect With Me
 
 <div align="center">
 
-### 💬 Let's connect, collaborate, and build something amazing together!
+<h3>Let's connect, collaborate, and build something amazing together 🚀</h3>
 
 <br>
 
-<a href="https://github.com/lakshsurve123">
-<img src="https://img.shields.io/badge/GitHub-lakshsurve123-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/lakshsurve123" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="https://www.linkedin.com/in/laksh-surve-723479289">
-<img src="https://img.shields.io/badge/LinkedIn-Laksh%20Surve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/laksh-surve-723479289" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:laksh.surve041@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-laksh.surve041%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="55"/>
 </a>
 
 </div>
@@ -631,66 +611,30 @@ A structured collection of Java programs covering fundamentals to advanced topic
 
 <div align="center">
 
-| 📌 | Information |
-|:--:|-------------|
+| 📌 | Details |
+|:---:|:--------|
 | 📧 | **laksh.surve041@gmail.com** |
-| 💼 | **LinkedIn:** www.linkedin.com/in/laksh-surve-723479289 |
+| 💼 | **LinkedIn:** linkedin.com/in/laksh-surve-723479289 |
 | 💻 | **GitHub:** github.com/lakshsurve123 |
-| 📍 | **Navi Mumbai, Maharashtra, India 🇮🇳** |
-| 💼 | **Open to Software Engineering & Full-Stack Internships** |
+| 📍 | **Location:** Navi Mumbai, Maharashtra, India 🇮🇳 |
+| 💼 | **Open To:** Software Engineering • Full-Stack • Backend • Cybersecurity Internships |
 
 </div>
 
 ---
 
-# 📊 GitHub Profile Insights
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lakshsurve123&label=Profile%20Views&style=for-the-badge&color=0891b2"/>
-
-<img src="https://img.shields.io/github/followers/lakshsurve123?style=for-the-badge&logo=github&label=Followers"/>
-
-<img src="https://img.shields.io/github/stars/lakshsurve123?style=for-the-badge&logo=github&label=Stars"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/lakshsurve123/lakshsurve123/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 📈 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/409EFF/lakshsurve123" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-💙 *Always learning • Always building • Always improving*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0ea5e9,100:9333ea&height=120"/>
-
-</div>
 <div align="center">
 
 ## ⭐ Thanks for Visiting!
 
-*"Building secure software today for a better tomorrow."*
+### 💙 *Code • Learn • Secure • Build • Repeat*
+
+<img src="https://komarev.com/ghpvc/?username=lakshsurve123&label=Profile+Views&style=for-the-badge&color=0891b2"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient"/>
+
 </div>
 
 ---
