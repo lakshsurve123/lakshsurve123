@@ -590,7 +590,7 @@ A structured collection of Java programs covering fundamentals to advanced topic
 ---
 
 <!-- ====================================================== -->
-<!--                CONNECT WITH ME                         -->
+<!--                    CONNECT WITH ME                     -->
 <!-- ====================================================== -->
 
 <a name="-connect-with-me"></a>
@@ -599,78 +599,63 @@ A structured collection of Java programs covering fundamentals to advanced topic
 
 <div align="center">
 
-> **Let's connect, collaborate, and build something amazing together! 🚀**
+### 💬 Let's connect, collaborate, and build something amazing together!
 
-</div>
-
----
-
-<div align="center">
-
-<a href="https://github.com/lakshsurve123">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-# 📫 Reach Me
-
-<table>
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:laksh.surve041@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-laksh.surve041%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/laksh-surve-723479289">
-<img src="https://img.shields.io/badge/LinkedIn-Laksh%20Surve-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
+<br>
 
 <a href="https://github.com/lakshsurve123">
 <img src="https://img.shields.io/badge/GitHub-lakshsurve123-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<a href="https://www.linkedin.com/in/laksh-surve-723479289">
+<img src="https://img.shields.io/badge/LinkedIn-Laksh%20Surve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/Location-Navi%20Mumbai,%20India-138808?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<a href="mailto:laksh.surve041@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-laksh.surve041%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</p>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-</table>
-
-# 📊 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lakshsurve123&style=for-the-badge&color=blue"/>
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
 
 </div>
 
+---
+
+# 📫 Contact Information
+
+<div align="center">
+
+| 📌 | Information |
+|:--:|-------------|
+| 📧 | **laksh.surve041@gmail.com** |
+| 💼 | **LinkedIn:** www.linkedin.com/in/laksh-surve-723479289 |
+| 💻 | **GitHub:** github.com/lakshsurve123 |
+| 📍 | **Navi Mumbai, Maharashtra, India 🇮🇳** |
+| 💼 | **Open to Software Engineering & Full-Stack Internships** |
+
+</div>
+
+---
+
+# 📊 GitHub Profile Insights
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lakshsurve123&label=Profile%20Views&style=for-the-badge&color=0891b2"/>
+
+<img src="https://img.shields.io/github/followers/lakshsurve123?style=for-the-badge&logo=github&label=Followers"/>
+
+<img src="https://img.shields.io/github/stars/lakshsurve123?style=for-the-badge&logo=github&label=Stars"/>
+
+</div>
+
+---
 
 # 🐍 Contribution Snake
 
@@ -682,7 +667,7 @@ A structured collection of Java programs covering fundamentals to advanced topic
 
 ---
 
-# 📈 GitHub Contribution Calendar
+# 📈 Contribution Calendar
 
 <div align="center">
 
@@ -690,15 +675,22 @@ A structured collection of Java programs covering fundamentals to advanced topic
 
 </div>
 
+---
 
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+💙 *Always learning • Always building • Always improving*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0ea5e9,100:9333ea&height=120"/>
+
+</div>
 <div align="center">
 
 ## ⭐ Thanks for Visiting!
 
 *"Building secure software today for a better tomorrow."*
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Thank+You+for+Visiting!;Happy+Coding!+🚀;See+You+Again!+👋"/>
-
 </div>
 
 ---
