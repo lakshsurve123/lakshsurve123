@@ -10,33 +10,32 @@
 
 ### 🚀 Full-Stack Developer • 🔐 Cybersecurity Enthusiast • ☕ Java Developer • 💻 3rd Year Computer Engineering Student
 
-💡 *Building secure, scalable & user-focused software solutions.*
-
 </div>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3300&pause=1000&color=00E5FF&center=true&vCenter=true&width=950&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Software;Java+%7C+React.js+%7C+Spring+Boot;Open+to+Software+Engineering+Internships"/>
+</p>
+
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Java+Developer;React.js+%7C+Spring+Boot+%7C+MySQL;Building+Secure+%26+Scalable+Applications;Always+Learning+New+Technologies;Welcome+to+my+GitHub+Profile!"/>
+<img src="https://img.shields.io/badge/Computer%20Engineering-Student-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CGPA-8.9-16A34A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Internships-22C55E?style=for-the-badge"/>
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=lakshsurve123&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=lakshsurve123&label=Visitors&style=for-the-badge&color=0EA5E9"/>
 
-<img src="https://img.shields.io/github/followers/lakshsurve123?style=for-the-badge&color=0e75b6&labelColor=1a1b27"/>
-
-<img src="https://img.shields.io/github/stars/lakshsurve123?style=for-the-badge&color=0e75b6&labelColor=1a1b27"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Focus-Full--Stack-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Security-Cybersecurity-success?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/lakshsurve123?style=for-the-badge&logo=github&label=Followers&color=0EA5E9"/>
 
 </div>
 
@@ -87,12 +86,6 @@
 
 </td>
 
-<td align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="300"/>
-
-</td>
-
 </tr>
 
 </table>
@@ -100,78 +93,62 @@
 ---
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
 
-# 🚀 What I Work With
+## 🚀 What I Work With
 
-✔ Java
+💻 Building modern, scalable and user-focused applications using:
 
-✔ Python
+- ☕ **Java**
+- 🐍 **Python**
+- 🌐 **HTML5 • CSS3 • JavaScript**
+- ⚛️ **React.js**
+- 🗄️ **MySQL**
+- 🔗 **REST APIs**
+- 🌱 **Learning Spring Boot**
+- 📂 **Git & GitHub**
+- 🧩 **Object-Oriented Programming**
+- 📚 **DBMS • Computer Networks • Operating Systems**
 
-✔ JavaScript
+<br>
 
-✔ React.js
-
-✔ HTML5
-
-✔ CSS3
-
-✔ MySQL
-
-✔ REST APIs
-
-✔ Git & GitHub
-
-✔ Object-Oriented Programming
-
-✔ DBMS
-
-✔ Computer Networks
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,mysql,git,github,vscode,postman&perline=6"/>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-# 📚 Currently Improving
+## 📚 Currently Improving
 
-🚀 Spring Boot
+🚀 Constantly learning and building with:
 
-🔐 Spring Security
+- 🌱 **Spring Boot**
+- 🔐 **Spring Security**
+- ⚛️ **Advanced React.js**
+- 🧩 **Data Structures & Algorithms**
+- 🏗️ **System Design**
+- 🛡️ **Secure Coding Practices**
+- 📡 **REST API Development**
+- 🐳 **Docker**
+- ☁️ **GitHub Actions (CI/CD)**
+- ⚙️ **Backend Architecture**
 
-⚛ Advanced React.js
+<br>
 
-🧩 Data Structures & Algorithms
-
-🗄 System Design
-
-☁ GitHub Actions
-
-🛡 Secure Coding Practices
-
-🐳 Docker
-
-⚙ Backend Architecture
-
-📡 API Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,redux,docker,linux,maven,idea&perline=3"/>
+</p>
 
 </td>
 
 </tr>
-
 </table>
-
 ---
 
-<div align="center">
-
-### ⭐ Thanks for scrolling this far!
-
-**Next:** 🛠️ Tech Stack Dashboard (with icons and glowing layout similar to Hirad Emami's profile)
-
-</div>
 <!-- ====================================================== -->
 <!--                  TECH STACK DASHBOARD                  -->
 <!-- ====================================================== -->
@@ -333,82 +310,6 @@
 
 ---
 
-# 📊 Skill Progress
-
-| Skill | Progress |
-|---------|----------|
-| ☕ Java | ████████████ 95% |
-| ⚛ React.js | ██████████░░ 85% |
-| 🌐 HTML & CSS | ███████████░ 90% |
-| 🟨 JavaScript | █████████░░░ 80% |
-| 🌱 Spring Boot | ███████░░░░░ 65% |
-| 🗄 MySQL | ██████████░░ 85% |
-| 🛠 Git & GitHub | ███████████░ 90% |
-| 🔐 Cybersecurity | ███████░░░░░ 70% |
-| 🧩 DSA | ████████░░░░ 75% |
-
----
-
-# 🚀 Currently Exploring
-
-<div align="center">
-
-| 🚀 Technology | 📖 Learning |
-|---------------|------------|
-| ☕ Spring Boot | REST APIs & Backend Development |
-| 🔐 Spring Security | Authentication & Authorization |
-| ⚛ React.js | Advanced Hooks & Redux |
-| 🗄 MySQL | Database Optimization |
-| 🧩 DSA | Problem Solving |
-| 🛡 Cybersecurity | Secure Coding & OWASP |
-| 🐳 Docker | Containerization |
-| ☁ GitHub Actions | CI/CD Basics |
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Favourite Development Workflow
-
-💡 Idea
-
-⬇
-
-📝 Plan
-
-⬇
-
-💻 Code
-
-⬇
-
-🧪 Test
-
-⬇
-
-🚀 Deploy
-
-⬇
-
-🔁 Improve
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Languages & Technologies
-
-<img src="https://skillicons.dev/icons?i=java,python,js,react,redux,html,css,spring,mysql,git,github,vscode,postman&perline=7"/>
-
-</div>
-
----
-
-⭐ **Next:** Part 3 – **Featured Projects Dashboard** (large project cards with tables, badges, GitHub buttons, tech stacks, and screenshots similar to the Hirad Emami profile).
 <!-- ====================================================== -->
 <!--                 FEATURED PROJECTS                      -->
 <!-- ====================================================== -->
