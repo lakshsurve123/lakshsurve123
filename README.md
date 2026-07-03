@@ -64,7 +64,7 @@
 
 <tr>
 
-<td width="65%">
+<td width="100%">
 
 🎓 **3rd Year B.E. Computer Engineering Student**
 
@@ -89,66 +89,6 @@
 </tr>
 
 </table>
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🚀 What I Work With
-
-💻 Building modern, scalable and user-focused applications using:
-
-- ☕ **Java**
-- 🐍 **Python**
-- 🌐 **HTML5 • CSS3 • JavaScript**
-- ⚛️ **React.js**
-- 🗄️ **MySQL**
-- 🔗 **REST APIs**
-- 🌱 **Learning Spring Boot**
-- 📂 **Git & GitHub**
-- 🧩 **Object-Oriented Programming**
-- 📚 **DBMS • Computer Networks • Operating Systems**
-
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,mysql,git,github,vscode,postman&perline=6"/>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📚 Currently Improving
-
-🚀 Constantly learning and building with:
-
-- 🌱 **Spring Boot**
-- 🔐 **Spring Security**
-- ⚛️ **Advanced React.js**
-- 🧩 **Data Structures & Algorithms**
-- 🏗️ **System Design**
-- 🛡️ **Secure Coding Practices**
-- 📡 **REST API Development**
-- 🐳 **Docker**
-- ☁️ **GitHub Actions (CI/CD)**
-- ⚙️ **Backend Architecture**
-
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,redux,docker,linux,maven,idea&perline=3"/>
-</p>
-
-</td>
-
-</tr>
-</table>
----
-
 <!-- ====================================================== -->
 <!--                  TECH STACK DASHBOARD                  -->
 <!-- ====================================================== -->
@@ -171,70 +111,54 @@
 
 <td align="center" width="33%">
 
-## 💻 Languages
+# 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java" height="55"/><br>
-<b>Java</b>
+<table>
 
-<br><br>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=python" height="55"/><br>
-<b>Python</b>
+<td align="center" width="25%">
 
-<br><br>
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=js" height="55"/><br>
-<b>JavaScript</b>
+<img src="https://skillicons.dev/icons?i=java,python,js" /><br><br>
 
-</p>
+`Java` • `Python` • `JavaScript`
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-## 🌐 Frontend
+### 🎨 Frontend
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=react,redux,html,css" /><br><br>
 
-<img src="https://skillicons.dev/icons?i=react" height="55"/><br>
-<b>React.js</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=redux" height="55"/><br>
-<b>Redux</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css" height="55"/><br>
-<b>HTML & CSS</b>
-
-</p>
+`React.js` • `Redux`<br>
+`HTML5` • `CSS3`
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-## ⚙ Backend
+### ⚙️ Backend
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,maven,postman" /><br><br>
 
-<img src="https://skillicons.dev/icons?i=spring" height="55"/><br>
-<b>Spring Boot</b>
+`Spring Boot`<br>
+`REST APIs`<br>
+`Postman`
 
-<br><br>
+</td>
 
-<img src="https://skillicons.dev/icons?i=java" height="55"/><br>
-<b>REST APIs</b>
+<td align="center" width="25%">
 
-<br><br>
+### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=postman" height="55"/><br>
-<b>Postman</b>
+<img src="https://skillicons.dev/icons?i=mysql" /><br><br>
 
-</p>
+`MySQL`
 
 </td>
 
@@ -242,7 +166,7 @@
 
 </table>
 
----
+<br>
 
 <table>
 
@@ -250,57 +174,46 @@
 
 <td align="center" width="33%">
 
-## 🗄 Database
+### 🛠️ Tools
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" /><br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-
-<br><br>
-
-<b>MySQL</b>
-
-</p>
+`Git` • `GitHub`<br>
+`VS Code` • `IntelliJ`
 
 </td>
 
 <td align="center" width="33%">
 
-## 🛠 Tools
+### 📚 Core CS
 
-<p align="center">
+🧩 Data Structures & Algorithms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="55"/>
+🗄️ Database Management Systems
 
-<br><br>
+🌐 Computer Networks
 
-<b>Git • GitHub • VS Code</b>
+⚙️ Operating Systems
 
-</p>
+☕ Object-Oriented Programming
 
 </td>
 
 <td align="center" width="33%">
 
-## 🔐 Security
+### 🔐 Currently Learning
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,docker,linux" /><br><br>
 
-🛡 Secure Coding
+🚀 Spring Boot
 
-<br><br>
+🛡️ Spring Security
 
-🔒 Authentication
+🐳 Docker
 
-<br><br>
+☁️ GitHub Actions
 
-🌐 Network Security
-
-<br><br>
-
-🔍 OWASP Basics
-
-</p>
+📈 System Design
 
 </td>
 
@@ -308,8 +221,17 @@
 
 </table>
 
+</div>
+
 ---
 
+<div align="center">
+
+### ⚡ Development Workflow
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,redux,mysql,git,github,vscode,postman,docker&perline=10"/>
+
+</div>
 <!-- ====================================================== -->
 <!--                 FEATURED PROJECTS                      -->
 <!-- ====================================================== -->
