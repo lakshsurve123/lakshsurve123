@@ -168,196 +168,76 @@
 
 <!--                 FEATURED PROJECTS                      -->
 
+🚀 Featured Projects
+🌟 Kaushalya
 
-<!-- ====================================================== -->
-<!--                 FEATURED PROJECTS                      -->
-<!-- ====================================================== -->
+A full-stack skill-sharing and mentor discovery platform connecting students with mentors across arts, sports, culture, and specialized skills.
 
-<a name="-featured-projects"></a>
+🛠️ Tech Stack:
+Java • Spring Boot • React.js • Redux • MySQL • HTML • CSS • JavaScript • REST APIs • Git
 
-## 🚀 Featured Projects
+✨ Features:
 
-<div align="center">
+Responsive React.js user interface
+Mentor discovery and profile management
+REST API integration
+Authentication system
+MySQL database integration
+Redux state management
+Clean and user-friendly UI
 
-> *Projects that showcase my journey in Full-Stack Development, Java, and problem-solving.*
+🔗 Links:
 
-</div>
+Source Code:
+https://github.com/lakshsurve123/Kaushalya
+Live Demo: https://kaushalya.vercel.app
 
----
+☕ Java-Lxsh
 
-<table>
-<tr>
+A structured Java programming repository containing beginner to advanced Java concepts with hands-on examples and problem-solving programs.
 
-<td width="40%" align="center">
+🛠️ Tech Stack:
+Java • Collections Framework • JDBC • File Handling • Git • GitHub
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshsurve123&repo=Kaushalya&theme=tokyonight&hide_border=true"/>
+✨ Features:
 
-</td>
+Core Java fundamentals
+Object-Oriented Programming
+Collections Framework
+Exception Handling
+Multithreading
+Streams API
+JDBC connectivity
+File Handling
+Java 8 Features
+Well-organized topic-wise examples
 
-<td width="60%" valign="top">
+🔗 Links:
 
-<h2>🌟 Kaushalya</h2>
+Source Code:
+https://github.com/lakshsurve123/Java-Lxsh
 
-<h3>🎓 Skill Sharing & Mentor Discovery Platform</h3>
+⚛️ BEN_10
 
-A full-stack web platform connecting students with mentors across arts, sports, culture, and specialized skills.
+A React.js learning project built to understand modern frontend development through reusable components and interactive UI design.
 
-<h3>🛠️ Tech Stack</h3>
+🛠️ Tech Stack:
+React.js • JavaScript • HTML5 • CSS3 • Git • GitHub
 
-<img src="https://skillicons.dev/icons?i=react,redux,java,mysql,html,css,js,git"/>
+✨ Features:
 
-<h3>✨ Features</h3>
+Functional Components
+React Hooks
+Component-based Architecture
+Responsive Design
+Client-side Routing
+Modern UI implementation
+Hands-on React development
 
-- ✅ Responsive React UI
-- ✅ Mentor Discovery
-- ✅ REST API Integration
-- ✅ Authentication System
-- ✅ MySQL Database
-- ✅ Redux State Management
-- ✅ Clean UI/UX
+🔗 Links:
 
-<h3>📊 Status</h3>
-
-| Feature | Status |
-|---------|:------:|
-| Frontend | ✅ |
-| Backend | ✅ |
-| Database | ✅ |
-| REST APIs | ✅ |
-
-<h3>🔗 Repository</h3>
-
-<a href="https://github.com/lakshsurve123/Kaushalya">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshsurve123&repo=BEN_10&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="60%" valign="top">
-
-<h2>⚛️ BEN 10</h2>
-
-<h3>React Learning Project</h3>
-
-A React application built while learning modern React concepts, reusable components, hooks, routing, and state management.
-
-<h3>🛠️ Tech Stack</h3>
-
-<img src="https://skillicons.dev/icons?i=react,js,css,html,git"/>
-
-<h3>✨ Features</h3>
-
-- ✅ Functional Components
-- ✅ React Hooks
-- ✅ Responsive Design
-- ✅ Component Architecture
-- ✅ Routing
-- ✅ Modern UI
-
-<h3>📊 Status</h3>
-
-| Feature | Status |
-|---------|:------:|
-| React | ✅ |
-| Components | ✅ |
-| Hooks | ✅ |
-| Responsive | ✅ |
-
-<h3>🔗 Repository</h3>
-
-<a href="https://github.com/lakshsurve123/BEN_10">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshsurve123&repo=Java-Lxsh&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="60%" valign="top">
-
-<h2>☕ Java Programs</h2>
-
-<h3>Java Learning Repository</h3>
-
-A structured collection of Java programs covering beginner to advanced Java concepts with hands-on examples.
-
-<h3>🛠️ Tech Stack</h3>
-
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode"/>
-
-<h3>📚 Topics Covered</h3>
-
-- ✅ Core Java
-- ✅ Object-Oriented Programming
-- ✅ Collections Framework
-- ✅ Multithreading
-- ✅ Streams API
-- ✅ JDBC
-- ✅ File Handling
-- ✅ Exception Handling
-- ✅ Java 8 Features
-
-<h3>📊 Repository Progress</h3>
-
-| Module | Status |
-|---------|:------:|
-| Basics | ✅ |
-| OOP | ✅ |
-| Collections | ✅ |
-| Streams | ✅ |
-| JDBC | ✅ |
-| File Handling | ✅ |
-
-<h3>🔗 Repository</h3>
-
-<a href="https://github.com/lakshsurve123/Java-Lxsh">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-# 📌 More Repositories
-
-<div align="center">
-
-| Repository | Description |
-|------------|-------------|
-| ☕ Java-Lxsh | Java Programs & DSA |
-| ⚛ BEN_10 | React Learning Projects |
-| 🌟 Kaushalya | Full-Stack Skill Sharing Platform |
-
-</div>
-
----
+Source Code:
+https://github.com/lakshsurve123/BEN_10
 
 <div align="center">
 
