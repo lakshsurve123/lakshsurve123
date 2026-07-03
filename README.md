@@ -11,7 +11,7 @@
 ### 🚀 Full-Stack Developer • 🔐 Cybersecurity Enthusiast • ☕ Java Developer • 💻 3rd Year Computer Engineering Student
 
 </div>
-
+<br><br>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3300&pause=1000&color=00E5FF&center=true&vCenter=true&width=950&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Software;Java+%7C+React.js+%7C+Spring+Boot;Open+to+Software+Engineering+Internships"/>
 </p>
@@ -22,15 +22,13 @@
 <img src="https://img.shields.io/github/followers/lakshsurve123?style=for-the-badge&logo=github&label=Followers&color=0EA5E9"/>
 </div>
 
----
+
+<br><br>
 
 <div align="center">
 
 ## 📌 Navigation
-
 <a href="#-about-me">About</a> •
-<a href="#-what-i-work-with">Work With</a> •
-<a href="#-currently-improving">Learning</a> •
 <a href="#-tech-stack">Tech Stack</a> •
 <a href="#-featured-projects">Projects</a> •
 <a href="#-github-analytics">Analytics</a> •
@@ -39,7 +37,7 @@
 
 </div>
 
----
+<br><br>
 
 ## 👨‍💻 About Me
 
@@ -67,14 +65,13 @@
 <b>"Code. Secure. Scale. Repeat."</b> 🚀
 </blockquote>
 
-<!-- ====================================================== -->
+<br></br>
+
 <!--                  TECH STACK DASHBOARD                  -->
-<!-- ====================================================== -->
-<br></br>
-<br></br>
+
 <a name="-tech-stack"></a>
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -89,9 +86,9 @@
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,js" /><br><br>
+<img src="https://skillicons.dev/icons?i=java,python,js,c" /><br><br>
 
-`Java` • `Python` • `JavaScript`
+`Java` • `Python` • `JavaScript` • `c`
 
 </td>
 
@@ -101,8 +98,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,redux,html,css" /><br><br>
 
-`React.js` • `Redux`<br>
-`HTML5` • `CSS3`
+`React.js` • `Redux` • `HTML5` • `CSS3`
 
 </td>
 
@@ -110,11 +106,9 @@
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=spring,maven,postman" /><br><br>
+<img src="https://skillicons.dev/icons?i=spring,maven,springboot" /><br><br>
 
-`Spring Boot`<br>
-`REST APIs`<br>
-`Postman`
+`Spring` • `REST APIs` • `Spring boot`
 
 </td>
 
@@ -128,78 +122,52 @@
 
 </td>
 
-</tr>
-
-</table>
-
-<br>
-
-<table width="100%">
-
-<tr>
-
-<td align="center" width="50%">
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" /><br><br>
-
-`Git` • `GitHub` • `VS Code` • `IntelliJ`
-
-</td>
-
-<td align="center" width="50%">
-
+<td align="center" width="25%">
+  
 ### 📚 Core CS
 
-🧩 Data Structures & Algorithms<br><br>
-🗄️ Database Management Systems<br><br>
-🌐 Computer Networks<br><br>
-⚙️ Operating Systems<br><br>
-☕ Object-Oriented Programming
+🧩 Data Structures & Algorithms.
+🌐 Computer Networks.
+⚙️ Operating Systems.
+☕ Object-Oriented Programming.
 
 </td>
-
 </tr>
-
 </table>
 
-<br>
+<br><br>
 
 <table width="100%">
-
 <tr>
-
 <td align="center" width="100%">
 
-### 🔐 Currently Learning
+### 💻 Development Tools
 
-<img src="https://skillicons.dev/icons?i=spring,docker,linux,git" /><br><br>
-
-🚀 Spring Boot • 🛡️ Spring Security • 🐳 Docker • ☁️ GitHub Actions • 📈 System Design
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=idea" height="50"/>
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="50"/>
+<img src="https://cdn.simpleicons.org/openai/412991" height="50"/>
+<img src="https://img.shields.io/badge/GPRM-181717?style=for-the-badge&logo=github&logoColor=white" height="50"/>
 
 </td>
-
 </tr>
-
 </table>
 
----
+<br><br>
 
-<div align="center">
 
-### ⚡ Development Workflow
+<!--                 FEATURED PROJECTS                      -->
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,redux,mysql,git,github,vscode,postman,docker&perline=10"/>
 
-</div>
 <!-- ====================================================== -->
 <!--                 FEATURED PROJECTS                      -->
 <!-- ====================================================== -->
 
 <a name="-featured-projects"></a>
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -211,21 +179,26 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-# 🌟 Kaushalya
+<td width="40%" align="center">
 
-### 🎓 Skill Sharing & Mentor Discovery Platform
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshsurve123&repo=Kaushalya&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td width="60%" valign="top">
+
+<h2>🌟 Kaushalya</h2>
+
+<h3>🎓 Skill Sharing & Mentor Discovery Platform</h3>
 
 A full-stack web platform connecting students with mentors across arts, sports, culture, and specialized skills.
 
-### 🛠 Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,redux,java,mysql,html,css,js,git"/>
-</p>
 
-### ✨ Features
+<h3>✨ Features</h3>
 
 - ✅ Responsive React UI
 - ✅ Mentor Discovery
@@ -235,7 +208,7 @@ A full-stack web platform connecting students with mentors across arts, sports, 
 - ✅ Redux State Management
 - ✅ Clean UI/UX
 
-### 📊 Status
+<h3>📊 Status</h3>
 
 | Feature | Status |
 |---------|:------:|
@@ -244,17 +217,14 @@ A full-stack web platform connecting students with mentors across arts, sports, 
 | Database | ✅ |
 | REST APIs | ✅ |
 
-### 🔗 Repository
+<h3>🔗 Repository</h3>
 
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/lakshsurve123/Kaushalya)
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshsurve123&repo=Kaushalya&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/lakshsurve123/Kaushalya">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 </tr>
 </table>
 
@@ -262,27 +232,26 @@ A full-stack web platform connecting students with mentors across arts, sports, 
 
 <table>
 <tr>
-<td width="50%" align="center">
+
+<td width="40%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshsurve123&repo=BEN_10&theme=tokyonight&hide_border=true"/>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-# ⚛ BEN 10
+<h2>⚛️ BEN 10</h2>
 
-### React Learning Project
+<h3>React Learning Project</h3>
 
-A React application built while learning modern React concepts, reusable components, hooks, and state management.
+A React application built while learning modern React concepts, reusable components, hooks, routing, and state management.
 
-### 🛠 Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,js,css,html,git"/>
-</p>
 
-### ✨ Features
+<h3>✨ Features</h3>
 
 - ✅ Functional Components
 - ✅ React Hooks
@@ -291,7 +260,7 @@ A React application built while learning modern React concepts, reusable compone
 - ✅ Routing
 - ✅ Modern UI
 
-### 📊 Status
+<h3>📊 Status</h3>
 
 | Feature | Status |
 |---------|:------:|
@@ -300,11 +269,14 @@ A React application built while learning modern React concepts, reusable compone
 | Hooks | ✅ |
 | Responsive | ✅ |
 
-### 🔗 Repository
+<h3>🔗 Repository</h3>
 
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/lakshsurve123/BEN_10)
+<a href="https://github.com/lakshsurve123/BEN_10">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 </tr>
 </table>
 
@@ -312,19 +284,30 @@ A React application built while learning modern React concepts, reusable compone
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-# ☕ Java Programs
+<td width="40%" align="center">
 
-### Java Learning Repository
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshsurve123&repo=Java-Lxsh&theme=tokyonight&hide_border=true"/>
 
-A structured collection of Java programs covering fundamentals to advanced topics.
+</td>
 
-### 📚 Topics Covered
+<td width="60%" valign="top">
+
+<h2>☕ Java Programs</h2>
+
+<h3>Java Learning Repository</h3>
+
+A structured collection of Java programs covering beginner to advanced Java concepts with hands-on examples.
+
+<h3>🛠️ Tech Stack</h3>
+
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode"/>
+
+<h3>📚 Topics Covered</h3>
 
 - ✅ Core Java
-- ✅ OOP
-- ✅ Collections
+- ✅ Object-Oriented Programming
+- ✅ Collections Framework
 - ✅ Multithreading
 - ✅ Streams API
 - ✅ JDBC
@@ -332,13 +315,7 @@ A structured collection of Java programs covering fundamentals to advanced topic
 - ✅ Exception Handling
 - ✅ Java 8 Features
 
-### 🛠 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode"/>
-</p>
-
-### 📊 Repository Progress
+<h3>📊 Repository Progress</h3>
 
 | Module | Status |
 |---------|:------:|
@@ -349,21 +326,16 @@ A structured collection of Java programs covering fundamentals to advanced topic
 | JDBC | ✅ |
 | File Handling | ✅ |
 
-### 🔗 Repository
+<h3>🔗 Repository</h3>
 
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/lakshsurve123/Java-Lxsh)
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshsurve123&repo=Java-Lxsh&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/lakshsurve123/Java-Lxsh">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 </tr>
 </table>
-
----
 
 # 📌 More Repositories
 
