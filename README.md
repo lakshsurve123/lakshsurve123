@@ -12,31 +12,16 @@
 
 </div>
 
----
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3300&pause=1000&color=00E5FF&center=true&vCenter=true&width=950&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Software;Java+%7C+React.js+%7C+Spring+Boot;Open+to+Software+Engineering+Internships"/>
 </p>
 
 
----
-
 <div align="center">
-
-<img src="https://img.shields.io/badge/Computer%20Engineering-Student-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CGPA-8.9-16A34A?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Open%20to-Internships-22C55E?style=for-the-badge"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=lakshsurve123&label=Visitors&style=for-the-badge&color=0EA5E9"/>
-
 <img src="https://img.shields.io/github/followers/lakshsurve123?style=for-the-badge&logo=github&label=Followers&color=0EA5E9"/>
-
 </div>
 
 ---
@@ -60,34 +45,35 @@
 
 # 👨‍💻 About Me
 
-<table>
+<table width="100%">
 
 <tr>
 
-<td width="100%">
+<td width="100%" align="center" style="padding:30px; border-radius:15px;">
 
-🎓 **3rd Year B.E. Computer Engineering Student**
+<h2>🎓 About Me</h2>
 
-🏫 Bharati Vidyapeeth College of Engineering, Navi Mumbai
+<br>
 
-📊 **CGPA : 8.9**
+🎓 3rd Year B.E. Computer Engineering Student  
+🏫 Bharati Vidyapeeth College of Engineering, Navi Mumbai  
+📊 CGPA: <b>8.9</b>  
 
-💻 Passionate about **Full-Stack Development**, **Backend Engineering**, and **Cybersecurity**
+<br><br>
 
-🚀 Building secure, scalable and user-focused software solutions.
+💻 Passionate about <b>Full-Stack Development</b>, <b>Backend Engineering</b>, and <b>Cybersecurity</b>  
+🚀 Building secure, scalable and user-focused software solutions  
+🔐 Interested in application security, REST APIs, backend systems  
+🌱 Constantly learning and improving every day  
+🎯 Open to Software Engineering opportunities  
 
-🔐 Interested in application security, REST APIs, backend systems and modern web technologies.
+<br>
 
-🌱 Constantly learning and building projects to improve every day.
-
-🎯 Looking for opportunities where I can contribute, learn and grow as a Software Engineer.
-
-> **"Code. Secure. Scale. Repeat." 🚀**
-
+<blockquote>
+<b>"Code. Secure. Scale. Repeat."</b> 🚀
+</blockquote>
 </td>
-
 </tr>
-
 </table>
 <!-- ====================================================== -->
 <!--                  TECH STACK DASHBOARD                  -->
@@ -105,17 +91,7 @@
 
 ---
 
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<table>
+<table width="100%">
 
 <tr>
 
@@ -168,52 +144,29 @@
 
 <br>
 
-<table>
+<table width="100%">
 
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" /><br><br>
 
-`Git` • `GitHub`<br>
-`VS Code` • `IntelliJ`
+`Git` • `GitHub` • `VS Code` • `IntelliJ`
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### 📚 Core CS
 
-🧩 Data Structures & Algorithms
-
-🗄️ Database Management Systems
-
-🌐 Computer Networks
-
-⚙️ Operating Systems
-
+🧩 Data Structures & Algorithms<br><br>
+🗄️ Database Management Systems<br><br>
+🌐 Computer Networks<br><br>
+⚙️ Operating Systems<br><br>
 ☕ Object-Oriented Programming
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔐 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=spring,docker,linux" /><br><br>
-
-🚀 Spring Boot
-
-🛡️ Spring Security
-
-🐳 Docker
-
-☁️ GitHub Actions
-
-📈 System Design
 
 </td>
 
@@ -221,7 +174,25 @@
 
 </table>
 
-</div>
+<br>
+
+<table width="100%">
+
+<tr>
+
+<td align="center" width="100%">
+
+### 🔐 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=spring,docker,linux,git" /><br><br>
+
+🚀 Spring Boot • 🛡️ Spring Security • 🐳 Docker • ☁️ GitHub Actions • 📈 System Design
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -637,6 +608,3 @@ A structured collection of Java programs covering fundamentals to advanced topic
 
 </div>
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=120"/>
