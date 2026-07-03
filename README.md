@@ -67,9 +67,6 @@
 
 <br></br>
 
-<!-- ====================================================== -->
-<!--                  TECH STACK DASHBOARD                  -->
-<!-- ====================================================== -->
 
 <!-- ====================================================== -->
 <!--                  TECH STACK DASHBOARD                  -->
@@ -97,7 +94,7 @@
 
 <img src="https://skillicons.dev/icons?i=java,python,js,c" /><br><br>
 
-`Java` • `Python` • `JavaScript` • `C`
+`Java` • `Python` <br> `JavaScript` • `C`
 
 </td>
 
@@ -107,7 +104,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,redux,html,css" /><br><br>
 
-`React.js` • `Redux` • `HTML5` • `CSS3`
+`React.js` • `Redux` •<br> `HTML5` • `CSS3`
 
 </td>
 
@@ -115,9 +112,9 @@
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=spring,maven,springboot" /><br><br>
+<img src="https://skillicons.dev/icons?i=spring,maven,linux" /><br><br>
 
-`Spring` • `REST APIs` • `Spring Boot`
+`Spring` • `Spring Boot` <br> `REST APIs` • `Linux`
 
 </td>
 
@@ -135,10 +132,10 @@
 
 ### 📚 Core CS
 
-🧩 Data Structures & Algorithms<br>
-🌐 Computer Networks<br>
-⚙️ Operating Systems<br>
-☕ Object-Oriented Programming
+🧩 DSA<br>
+🌐 CN<br>
+⚙️ OS<br>
+☕ OOPS
 
 </td>
 
@@ -238,28 +235,6 @@ Hands-on React development
 
 Source Code:
 https://github.com/lakshsurve123/BEN_10
-
-<div align="center">
-
-## 🎯 What These Projects Demonstrate
-
-💻 Full-Stack Development
-
-☕ Java Programming
-
-⚛ React.js
-
-🗄 Database Design
-
-🔗 REST APIs
-
-🧩 Problem Solving
-
-📂 Version Control
-
-🚀 Continuous Learning
-
-</div>
 
 ---
 
