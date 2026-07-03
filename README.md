@@ -71,6 +71,10 @@
 <!--                  TECH STACK DASHBOARD                  -->
 <!-- ====================================================== -->
 
+<!-- ====================================================== -->
+<!--                  TECH STACK DASHBOARD                  -->
+<!-- ====================================================== -->
+
 <a name="-tech-stack"></a>
 
 ## 🛠️ Tech Stack
@@ -83,82 +87,58 @@
 
 <br>
 
-<table align="center">
+<table width="100%">
 
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="20%">
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,js,c"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,c" /><br><br>
 
-<br><br>
-
-Java • Python • JavaScript • C
+`Java` • `Python` • `JavaScript` • `C`
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="20%">
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,redux,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,redux,html,css" /><br><br>
 
-<br><br>
-
-React • Redux • HTML5 • CSS3
+`React.js` • `Redux` • `HTML5` • `CSS3`
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="20%">
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=spring,springboot,maven"/>
+<img src="https://skillicons.dev/icons?i=spring,maven,springboot" /><br><br>
 
-<br><br>
-
-Spring • Spring Boot • REST APIs
+`Spring` • `REST APIs` • `Spring Boot`
 
 </td>
 
-</tr>
-
-<tr>
-
-<td align="center">
+<td align="center" width="20%">
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql" /><br><br>
 
-<br><br>
-
-MySQL
+`MySQL`
 
 </td>
 
-<td align="center">
+<td align="center" width="20%">
 
 ### 📚 Core CS
 
-🧩 DSA<br>
+🧩 Data Structures & Algorithms<br>
 🌐 Computer Networks<br>
 ⚙️ Operating Systems<br>
-☕ OOP
-
-</td>
-
-<td align="center">
-
-### 🔐 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=spring,docker,linux"/>
-
-<br><br>
-
-Hibernate • Docker • Linux
+☕ Object-Oriented Programming
 
 </td>
 
@@ -166,43 +146,17 @@ Hibernate • Docker • Linux
 
 <tr>
 
-<td align="center">
+<td colspan="5" align="center">
 
-### 🛠️ Version Control
+### 💻 Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github"/>
-
-<br><br>
-
-Git • GitHub
-
-</td>
-
-<td align="center">
-
-### 💻 IDEs
-
-<img src="https://skillicons.dev/icons?i=vscode,idea"/>
-
-<br><br>
-
-VS Code • IntelliJ IDEA
-
-</td>
-
-<td align="center">
-
-### 🚀 Tools
-
-<img src="https://cdn.simpleicons.org/postman/FF6C37" height="48"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/openai/412991" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/GPRM-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<br><br>
-
-Postman • ChatGPT • GPRM
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=idea" height="50"/>
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="50"/>
+<img src="https://cdn.simpleicons.org/openai/412991" height="50"/>
+<img src="https://img.shields.io/badge/GPRM-181717?style=for-the-badge&logo=github&logoColor=white" height="50"/>
 
 </td>
 
