@@ -530,67 +530,23 @@ A structured collection of Java programs covering fundamentals to advanced topic
 
 ---
 
-<!-- ====================================================== -->
-<!--                  CONNECT WITH ME                       -->
-<!-- ====================================================== -->
+## 🌐 Connect With Me
 
-<a name="connect"></a>
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<h3>Let's connect, collaborate, and build something amazing together 🚀</h3>
-
-<br>
-
-<a href="https://github.com/lakshsurve123" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
+<p align="center">
 
 <a href="https://www.linkedin.com/in/laksh-surve-723479289" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:laksh.surve041@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55"/>
+<a href="https://github.com/lakshsurve123" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
-<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="55"/>
-</a>
-
-</div>
-
----
-
-# 📫 Contact Information
-
-<div align="center">
-
-| 📌 | Details |
-|:---:|:--------|
-| 📧 | **laksh.surve041@gmail.com** |
-| 💼 | **LinkedIn:** linkedin.com/in/laksh-surve-723479289 |
-| 💻 | **GitHub:** github.com/lakshsurve123 |
-| 📍 | **Location:** Navi Mumbai, Maharashtra, India 🇮🇳 |
-| 💼 | **Open To:** Software Engineering • Full-Stack • Backend • Cybersecurity Internships |
-
-</div>
-
----
+</p>
 
 <div align="center">
 
