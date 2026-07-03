@@ -41,38 +41,32 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-<table width="100%">
+🎓 I am a 3rd Year Computer Engineering student at Bharati Vidyapeeth College of Engineering, Navi Mumbai with a CGPA of **8.9**  
 
-<tr>
+💻 Passionate about Full-Stack Development, Machine Learning, and Cybersecurity  
 
-<td width="65%" align="center" style="padding:30px; border-radius:15px;">
+⚙️ Currently working on Hibernate, REST APIs, and Backend System Development  
 
-<h2>🎓 About Me</h2>
+🚀 Building secure, scalable, and user-focused software solutions with optimal performance  
 
-<br>
+🔐 Interested in Cybersecurity, Computer Networks, and designing websites and logos  
 
-🎓 3rd Year B.E. Computer Engineering Student  
-🏫 Bharati Vidyapeeth College of Engineering, Navi Mumbai  
-📊 CGPA: <b>8.9</b>  
-
-<br><br>
-
-💻 Passionate about <b>Full-Stack Development</b>, <b>Backend Engineering</b>, and <b>Cybersecurity</b>  
-🚀 Building secure, scalable and user-focused software solutions  
-🔐 Interested in application security, REST APIs, backend systems  
 🌱 Constantly learning and improving every day  
-🎯 Open to Software Engineering opportunities  
 
-<br>
+📚 Practicing Java and DSA regularly  
+
+🏆 Participated in SIH (Smart India Hackathon), Design Arena, and Loop Hackathon  
+
+🎯 Goal: Complete expertise in Cybersecurity and become a SOC Analyst  
+
+🛠️ Tech Stack: Java • Python • JavaScript • React.js • Spring Boot • Hibernate • MySQL • REST APIs • Git • GitHub • Postman  
 
 <blockquote>
 <b>"Code. Secure. Scale. Repeat."</b> 🚀
 </blockquote>
-</td>
-</tr>
-</table>
+
 <!-- ====================================================== -->
 <!--                  TECH STACK DASHBOARD                  -->
 <!-- ====================================================== -->
