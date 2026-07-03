@@ -67,7 +67,9 @@
 
 <br></br>
 
+<!-- ====================================================== -->
 <!--                  TECH STACK DASHBOARD                  -->
+<!-- ====================================================== -->
 
 <a name="-tech-stack"></a>
 
@@ -78,83 +80,135 @@
 > **Technologies I use to design, develop and secure modern applications.**
 
 </div>
-<table width="100%">
+
+<br>
+
+<table align="center">
 
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,js,c" /><br><br>
-
-`Java` • `Python` • `JavaScript` • `c`
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,redux,html,css" /><br><br>
-
-`React.js` • `Redux` • `HTML5` • `CSS3`
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=spring,maven,springboot" /><br><br>
-
-`Spring` • `REST APIs` • `Spring boot`
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql" /><br><br>
-
-`MySQL`
-
-</td>
-
-<td align="center" width="25%">
-  
-### 📚 Core CS
-
-🧩 Data Structures & Algorithms.
-🌐 Computer Networks.
-⚙️ Operating Systems.
-☕ Object-Oriented Programming.
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=java,python,js,c"/>
 
 <br><br>
 
-<table width="100%">
-<tr>
-<td align="center" width="100%">
-
-### 💻 Development Tools
-
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-<img src="https://skillicons.dev/icons?i=idea" height="50"/>
-<img src="https://cdn.simpleicons.org/postman/FF6C37" height="50"/>
-<img src="https://cdn.simpleicons.org/openai/412991" height="50"/>
-<img src="https://img.shields.io/badge/GPRM-181717?style=for-the-badge&logo=github&logoColor=white" height="50"/>
+Java • Python • JavaScript • C
 
 </td>
-</tr>
-</table>
 
+<td align="center" width="33%">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,redux,html,css"/>
+
+<br><br>
+
+React • Redux • HTML5 • CSS3
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=spring,springboot,maven"/>
+
+<br><br>
+
+Spring • Spring Boot • REST APIs
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<br><br>
+
+MySQL
+
+</td>
+
+<td align="center">
+
+### 📚 Core CS
+
+🧩 DSA<br>
+🌐 Computer Networks<br>
+⚙️ Operating Systems<br>
+☕ OOP
+
+</td>
+
+<td align="center">
+
+### 🔐 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=spring,docker,linux"/>
+
+<br><br>
+
+Hibernate • Docker • Linux
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🛠️ Version Control
+
+<img src="https://skillicons.dev/icons?i=git,github"/>
+
+<br><br>
+
+Git • GitHub
+
+</td>
+
+<td align="center">
+
+### 💻 IDEs
+
+<img src="https://skillicons.dev/icons?i=vscode,idea"/>
+
+<br><br>
+
+VS Code • IntelliJ IDEA
+
+</td>
+
+<td align="center">
+
+### 🚀 Tools
+
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="48"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/openai/412991" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GPRM-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br><br>
+
+Postman • ChatGPT • GPRM
+
+</td>
+
+</tr>
+
+</table>
 <br><br>
 
 
