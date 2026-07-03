@@ -70,7 +70,8 @@
 <!-- ====================================================== -->
 <!--                  TECH STACK DASHBOARD                  -->
 <!-- ====================================================== -->
-
+<br></br>
+<br></br>
 <a name="-tech-stack"></a>
 
 # 🛠️ Tech Stack
@@ -80,9 +81,6 @@
 > **Technologies I use to design, develop and secure modern applications.**
 
 </div>
-
----
-
 <table width="100%">
 
 <tr>
