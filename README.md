@@ -249,8 +249,9 @@ https://github.com/lakshsurve123/BEN_10
 
 </div>
 
-
+<!-- ====================================================== -->
 <!--                 GITHUB ANALYTICS                       -->
+<!-- ====================================================== -->
 
 <a name="-github-analytics"></a>
 
@@ -258,7 +259,7 @@ https://github.com/lakshsurve123/BEN_10
 
 <div align="center">
 
-> *Tracking my coding journey, contributions, and continuous growth.*
+> **Tracking my coding journey, contributions, and continuous growth.**
 
 </div>
 
@@ -274,25 +275,19 @@ https://github.com/lakshsurve123/BEN_10
 
 </div>
 
+<br>
+
 ---
 
 ## 🔥 GitHub Streak
 
 <div align="center">
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshsurve123&theme=tokyonight&hide_border=true"/>
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshsurve123&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshsurve123&theme=tokyo-night&hide_border=true"/>
-
-</div>
+<br>
 
 ---
 
@@ -300,34 +295,15 @@ https://github.com/lakshsurve123/BEN_10
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lakshsurve123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lakshsurve123&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
----
-
-## 📊 Top Contributed Repositories
-
-<div align="center">
-
-<img width="80%" src="https://github-contributor-stats.vercel.app/api?username=lakshsurve123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</div>
+<br>
 
 ---
 
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lakshsurve123&label=Profile+Views&style=for-the-badge&color=0891b2"/>
-
-</div>
-
-<br>,br>
----
-
-# 📊 Coding Activity
+## 📊 Coding Activity
 
 <div align="center">
 
@@ -343,9 +319,11 @@ https://github.com/lakshsurve123/BEN_10
 
 </div>
 
+<br>
+
 ---
 
-# 📈 GitHub Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -353,28 +331,53 @@ https://github.com/lakshsurve123/BEN_10
 
 </div>
 
+<br>
+
 ---
 
-# 📅 Contribution Calendar
+## 📅 Contribution Calendar
 
 <div align="center">
 
-<img width="95%" src="https://ghchart.rshah.org/0891b2/lakshsurve123"/>
+<img width="100%" src="https://ghchart.rshah.org/0891b2/lakshsurve123"/>
 
 </div>
 
+<br>
+
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/lakshsurve123/lakshsurve123/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/lakshsurve123/lakshsurve123/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
+<br>
+
 ---
+
+## 📊 Top Contributed Repositories
+
+<div align="center">
+
+<img width="80%" src="https://github-contributor-stats.vercel.app/api?username=lakshsurve123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</div>
+
+<br>
+
 ---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lakshsurve123&label=Profile+Views&style=for-the-badge&color=0891b2"/>
+
+</div>
 
 ## 🌐 Connect With Me
 
