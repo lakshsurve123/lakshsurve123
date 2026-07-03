@@ -186,7 +186,9 @@ Clean and user-friendly UI
 Source Code:
 https://github.com/lakshsurve123/Kaushalya
 Live Demo: https://kaushalya.vercel.app
-
+<br>
+---
+<br>
 ☕ Java-Lxsh
 
 A structured Java programming repository containing beginner to advanced Java concepts with hands-on examples and problem-solving programs.
@@ -211,7 +213,9 @@ Well-organized topic-wise examples
 
 Source Code:
 https://github.com/lakshsurve123/Java-Lxsh
-
+<br>
+---
+<br>
 ⚛️ BEN_10
 
 A React.js learning project built to understand modern frontend development through reusable components and interactive UI design.
@@ -233,9 +237,10 @@ Hands-on React development
 
 Source Code:
 https://github.com/lakshsurve123/BEN_10
-
+<br>
 ---
-
+<br>
+<br>
 <div align="center">
 
 ### ⭐ More exciting projects coming soon...
@@ -243,9 +248,9 @@ https://github.com/lakshsurve123/BEN_10
 *"Every project is another step toward becoming a better Software Engineer."*
 
 </div>
-<!-- ====================================================== -->
+
+
 <!--                 GITHUB ANALYTICS                       -->
-<!-- ====================================================== -->
 
 <a name="-github-analytics"></a>
 
@@ -291,20 +296,35 @@ https://github.com/lakshsurve123/BEN_10
 
 ---
 
-<!-- ====================================================== -->
-<!--                    ACHIEVEMENTS                         -->
-<!-- ====================================================== -->
-
-<a name="achievements"></a>
-
-# 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lakshsurve123&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lakshsurve123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 
 </div>
 
+---
+
+## 📊 Top Contributed Repositories
+
+<div align="center">
+
+<img width="80%" src="https://github-contributor-stats.vercel.app/api?username=lakshsurve123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lakshsurve123&label=Profile+Views&style=for-the-badge&color=0891b2"/>
+
+</div>
+
+<br>,br>
 ---
 
 # 📊 Coding Activity
@@ -353,6 +373,7 @@ https://github.com/lakshsurve123/BEN_10
 
 </div>
 
+---
 ---
 
 ## 🌐 Connect With Me
