@@ -403,8 +403,6 @@ https://github.com/lakshsurve123/BEN_10
 
 ### 💙 *Code • Learn • Secure • Build • Repeat*
 
-<img src="https://komarev.com/ghpvc/?username=lakshsurve123&label=Profile+Views&style=for-the-badge&color=0891b2"/>
-
 <br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient"/>
