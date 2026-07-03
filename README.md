@@ -1034,50 +1034,33 @@ To become a Software Engineer capable of building secure, scalable, and impactfu
 
 <table>
 
-<tr>
+# 🌐 Connect With Me
 
-<td width="50%">
+<p align="center">
 
-### 💼 Professional
+<a href="mailto:laksh.surve041@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-laksh.surve041%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- 👨‍💻 Software Developer
-- 🔐 Cybersecurity Enthusiast
-- ⚛ Full-Stack Developer
-- ☕ Java Developer
+<br><br>
 
-</td>
+<a href="https://www.linkedin.com/in/laksh-surve-723479289">
+<img src="https://img.shields.io/badge/LinkedIn-Laksh%20Surve-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<td width="50%">
+<br><br>
 
-### 📩 Contact
+<a href="https://github.com/lakshsurve123">
+<img src="https://img.shields.io/badge/GitHub-lakshsurve123-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-- 📧 YOUR_EMAIL@gmail.com
-- 💼 LinkedIn
-- 💻 GitHub
-- 🌍 India
+<br><br>
 
-</td>
+<img src="https://img.shields.io/badge/Location-Navi%20Mumbai,%20India-138808?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-</tr>
+</p>
 
 </table>
-
----
-
-# 💻 Coding Profiles
-
-<div align="center">
-
-| Platform | Profile |
-|----------|---------|
-| 💻 GitHub | ⭐ Active |
-| 🧠 LeetCode | 🚀 Problem Solving |
-| 🏆 HackerRank | 📚 Learning |
-| 📖 GeeksforGeeks | 💡 Practice |
-
-</div>
-
----
 
 # 📊 Visitor Counter
 
@@ -1087,25 +1070,6 @@ To become a Software Engineer capable of building secure, scalable, and impactfu
 
 </div>
 
----
-
-# ❤️ Support My Work
-
-<div align="center">
-
-If you enjoy my projects,
-
-⭐ Star my repositories
-
-🍴 Fork them
-
-🤝 Connect with me
-
-💬 Share your feedback
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
@@ -1125,65 +1089,6 @@ If you enjoy my projects,
 
 </div>
 
----
-
-# 💡 Random Developer Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-# 🎵 Currently Listening
-
-<div align="center">
-
-> 🎧 *Coding is better with good music.*
-
-</div>
-
----
-
-# 🚀 Fun Facts
-
-<div align="center">
-
-☕ Coffee + Code = Productivity
-
-🔐 Security First
-
-🚀 Always Building
-
-📚 Always Learning
-
-💙 Open Source Enthusiast
-
-</div>
-
----
-
-# 🏆 Profile Summary
-
-<div align="center">
-
-🎓 **Computer Engineering Student**
-
-💻 **Full-Stack Developer**
-
-🔐 **Cybersecurity Enthusiast**
-
-☕ **Java Developer**
-
-🚀 **Backend Engineering Learner**
-
-📚 **Continuous Learner**
-
-</div>
-
----
 
 <div align="center">
 
