@@ -1,6 +1,4 @@
-<!-- ====================================================== -->
-<!--                     HERO SECTION                        -->
-<!-- ====================================================== -->
+<!-- ================= HEADER BANNER ================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&text=Laksh%20Surve&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Java%20Developer&descAlignY=58&descSize=18"/>
 
