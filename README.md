@@ -334,11 +334,10 @@ https://github.com/lakshsurve123/BEN_10
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/lakshsurve123/lakshsurve123/output/github-contribution-grid-snake.svg">
     <img
-      alt="github contribution snake"
+      alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/lakshsurve123/lakshsurve123/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
 <br>
 
 ---
