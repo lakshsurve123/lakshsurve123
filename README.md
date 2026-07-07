@@ -260,12 +260,20 @@ https://github.com/lakshsurve123/BEN_10
 > **Tracking my coding journey, contributions, and continuous growth.**
 </div>
 
-## 📈 GitHub Statistics
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lakshsurve123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshsurve123&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-<br>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshsurve123&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshsurve123&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshsurve123&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshsurve123&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -323,7 +331,7 @@ https://github.com/lakshsurve123/BEN_10
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -334,12 +342,10 @@ https://github.com/lakshsurve123/BEN_10
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/lakshsurve123/lakshsurve123/output/github-contribution-grid-snake.svg">
     <img
-      alt="GitHub Contribution Snake"
+      alt="github contribution snake"
       src="https://raw.githubusercontent.com/lakshsurve123/lakshsurve123/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-<br>
-
 ---
 
 ## 👀 Profile Views
