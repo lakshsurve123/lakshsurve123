@@ -254,21 +254,13 @@ https://github.com/lakshsurve123/BEN_10
 
 <a name="-github-analytics"></a>
 
-📊 GitHub Analytics
 
-<div align="center">
+## 📊 GitHub Statistics
 
-Tracking my coding journey, contributions, and continuous growth.
-
-<br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lakshsurve123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshsurve123&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lakshsurve123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshsurve123&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -276,18 +268,6 @@ Tracking my coding journey, contributions, and continuous growth.
 
 <div align="center">
 <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshsurve123&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lakshsurve123&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
 </div>
 
 <br>
@@ -326,6 +306,18 @@ Tracking my coding journey, contributions, and continuous growth.
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lakshsurve123&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+<br>
+
+---
+
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -341,6 +333,7 @@ Tracking my coding journey, contributions, and continuous growth.
       src="https://raw.githubusercontent.com/lakshsurve123/lakshsurve123/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 ---
 
 ## 👀 Profile Views
