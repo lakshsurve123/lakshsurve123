@@ -254,26 +254,21 @@ https://github.com/lakshsurve123/BEN_10
 
 <a name="-github-analytics"></a>
 
-# 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
-> **Tracking my coding journey, contributions, and continuous growth.**
+
+Tracking my coding journey, contributions, and continuous growth.
+
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lakshsurve123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshsurve123&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshsurve123&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshsurve123&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshsurve123&theme=tokyonight"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshsurve123&theme=tokyonight"/>
-</p>
+<br>
 
 ---
 
